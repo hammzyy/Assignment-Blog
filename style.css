@@ -41,6 +41,18 @@ button:hover{
     border: solid none;
 }
 
+.blogSection{
+    display: flex;
+}
+
+.blog{
+    margin: 50px;
+    padding:;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.192);
+    color: rgba(255, 255, 255, 0.767);
+}
+
 footer{
     margin-top: 50px;
     text-align: center;
@@ -58,12 +70,4 @@ footer i:hover{
 
 footer i:active{
     transform: scale(75%);
-}
-.blog{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-    width: 300px;
 }
