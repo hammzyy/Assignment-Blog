@@ -51,31 +51,48 @@ button:hover{
     color: rgba(255, 255, 255, 0.767);
 }
 
-
 #b0{
     background-color: rgba(0, 0, 0, 0.603);
     box-shadow: 20px 20px 50px 15px grey;
-
+}
+#b0:hover{
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: none;
 }
 
 #b1{
     background-color: rgba(0, 0, 0, 0.336);
 }
+#b1:hover{
+    background-color: black;
+    color: whitesmoke;
+}
 
 #b2{
     background-color: rgba(0, 0, 0, 0.247);
     box-shadow: 20px 20px 50px 15px grey;
-
+}
+#b2:hover{
+    background-color: whitesmoke;
+    color: black;
 }
 
 #b3{
     background-color: rgba(0, 0, 0, 0.185);
 }
+#b3:hover{
+    background-color: black;
+    color: whitesmoke;
+}
 
 #b4{
     background-color: rgba(0, 0, 0, 0.137);
     box-shadow: 20px 20px 50px 15px grey;
-
+}
+#b4:hover{
+    background-color: whitesmoke;
+    color: black;
 }
 
 footer{
